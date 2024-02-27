@@ -13,5 +13,8 @@
     "@types/lodash": "^4.14.202",
     "lodash": "^4.17.21"
   },
-  "keywords": []
+  "keywords": [],
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
 }
